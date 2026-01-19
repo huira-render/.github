@@ -1,5 +1,4 @@
-![Logo](./blue_on_transparent.svg#gh-light-mode-only)
-![Logo](./white_on_transparent.svg#gh-dark-mode-only)
+![Huira](./huira_logo_adaptive.svg)
 
 A ray-tracing library for rendering space engineering and science tasks.  This includes simulating large scenes, star fields, LiDAR, and solar radiation pressure.
 
